@@ -14,7 +14,7 @@ public final class Naves {
 	
 	/**
 	 * Getter que permite obtener la nave
-	 * @return
+	 * @return nave
 	 */
 	public static Naves instanciaNaves() {
 		return nave;
